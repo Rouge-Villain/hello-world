@@ -1,2 +1,6 @@
 # hello-world
-Test for School
+
+Hello Everyone
+
+This is a test for school. 
+GitHub is the coolest!
